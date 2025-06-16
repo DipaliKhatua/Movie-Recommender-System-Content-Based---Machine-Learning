@@ -1,0 +1,14 @@
+# Ignore virtual environment and environment files
+/venv/
+/.env
+
+# Ignore model artifacts
+*.pkl
+
+# Ignore dataset files
+*.csv
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
