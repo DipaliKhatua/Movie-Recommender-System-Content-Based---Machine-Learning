@@ -9,7 +9,7 @@ A recommender system is an AI-driven tool that suggests relevant items (movies, 
         - Example: If users with similar viewing habits like a particular movie, the system recommends it to others with similar tastes.
         3. - Hybrid Filtering: Combines content-based and collaborative filtering for more accurate recommendations.
         - Example: Netflix uses hybrid filtering—recommending shows based on both content similarity and user preferences.
-        Since you're working with YouTube videos, content-based filtering will rely on video metadata, tags, transcripts, and descriptions for recommendations. Let me know if you need guidance on implementation!
+        Since we're working with YouTube videos, content-based filtering will rely on video metadata, tags, transcripts, and descriptions for recommendations. Let me know if we need guidance on implementation!
 
 Dataset Link: https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 
